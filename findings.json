@@ -1,0 +1,19 @@
+{
+  "id": "E04",
+  "title": "E04 | Fixed primary rule under recorded cost scenarios",
+  "labels": [
+    "0 USD/MWh cost",
+    "1 USD/MWh cost",
+    "5 USD/MWh cost",
+    "10 USD/MWh cost"
+  ],
+  "values": [
+    1.5002274520725989,
+    0.5002274520725989,
+    -3.4997725479274013,
+    -8.499772547927401
+  ],
+  "unit": "Conditional mean USD/MWh",
+  "limitation": "Q1 2023 development; costs assumed, clearing/point-in-time gates unqualified.",
+  "rotation": 0
+}
